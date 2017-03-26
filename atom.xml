@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-03-18T17:25:44.019Z</updated>
+  <updated>2017-03-26T09:08:44.496Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,33 +16,93 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2017/03/16/hello-world/"/>
-    <id>http://yoursite.com/2017/03/16/hello-world/</id>
-    <published>2017-03-16T14:22:51.109Z</published>
-    <updated>2017-03-18T17:25:44.019Z</updated>
+    <title>Android O</title>
+    <link href="http://yoursite.com/2017/03/23/Android-O/"/>
+    <id>http://yoursite.com/2017/03/23/Android-O/</id>
+    <published>2017-03-23T13:52:00.000Z</published>
+    <updated>2017-03-26T09:08:44.496Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<a id="more"></a>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+    <content type="html"><![CDATA[<p>Goole 发布 <a href="https://developer.android.com/preview/index.html" target="_blank" rel="external">Android O Developer Preview</a><br><br>先刷了上手体验<br><img src="http://on0umhhsd.bkt.clouddn.com/Android0.jpg" alt=""></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+      &lt;p&gt;Goole 发布 &lt;a href=&quot;https://developer.android.com/preview/index.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Android O Developer Preview&lt;/a&gt;&lt;br&gt;&lt;br
     
     </summary>
     
+      <category term="Android" scheme="http://yoursite.com/categories/Android/"/>
     
-      <category term="Android" scheme="http://yoursite.com/tags/Android/"/>
+    
+      <category term="玩物志" scheme="http://yoursite.com/tags/%E7%8E%A9%E7%89%A9%E5%BF%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>学科名称</title>
+    <link href="http://yoursite.com/2017/03/20/First-Day/"/>
+    <id>http://yoursite.com/2017/03/20/First-Day/</id>
+    <published>2017-03-20T14:41:00.000Z</published>
+    <updated>2017-03-26T08:43:37.005Z</updated>
+    
+    <content type="html"><![CDATA[<ul>
+<li>major</li>
+<li>discipline</li>
+<li>anthropology</li>
+<li>linguistics</li>
+<li>physiology</li>
+<li>mining</li>
+<li>physical</li>
+<li>physics</li>
+<li>arts</li>
+<li>sicence</li>
+<li>politics</li>
+<li>philosophy</li>
+<li>geography</li>
+<li>photojournalism</li>
+<li>history</li>
+<li>astronomy</li>
+<li>media</li>
+<li>language</li>
+<li>applied</li>
+<li>environment</li>
+<li>chemistry</li>
+<li>management</li>
+<li>statistics</li>
+<li>archaeological</li>
+<li>accountancy </li>
+<li>biology</li>
+<li>computer</li>
+<li>literature</li>
+<li>sociology</li>
+<li>engineering</li>
+<li>architecture</li>
+<li>business</li>
+<li>law</li>
+<li>economics</li>
+<li>finance</li>
+<li>banking</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;ul&gt;
+&lt;li&gt;major&lt;/li&gt;
+&lt;li&gt;discipline&lt;/li&gt;
+&lt;li&gt;anthropology&lt;/li&gt;
+&lt;li&gt;linguistics&lt;/li&gt;
+&lt;li&gt;physiology&lt;/li&gt;
+&lt;li&gt;mining&lt;/li&gt;
+&lt;li&gt;physical&lt;/li&gt;
+&lt;li
+    
+    </summary>
+    
+      <category term="IELTS" scheme="http://yoursite.com/categories/IELTS/"/>
+    
+    
+      <category term="IELTS" scheme="http://yoursite.com/tags/IELTS/"/>
     
   </entry>
   
